@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 1.2 Year<br>📚 I'm currently learning: Advanced React patterns and New technologies<br>🎯 Goals: To master full-stack development and contribute to open-source projects<br>🎲 Fun fact: I once built a fully functional website for my pet hamster!</p>
+<p align="left">✨ Creating bugs since: 2.5 Year<br>📚 I'm currently learning: Advanced React patterns and New technologies<br>🎯 Goals: To master full-stack development and contribute to open-source projects<br>🎲 Fun fact: I once built a fully functional website for my pet hamster!</p>
 
 ###
 
